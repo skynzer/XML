@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <soft_skills>communicative skills</soft_skills>
+  <soft_skills>team work</soft_skills>
+  <soft_skills>English</soft_skills>
+  <hard_skills>Python</hard_skills>
+  <hard_skills>JavaScript</hard_skills>
+  <hard_skills>bash</hard_skills>
+  <hard_skills>git</hard_skills>
+  <hard_skills>Postman</hard_skills>
+  <hard_skills>Charles</hard_skills>
+</root>
